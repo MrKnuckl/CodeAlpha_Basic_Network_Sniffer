@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="sniffer_pic.png">
+<img align="right" alt="Coding" width="100" lengh="100" src="sniffer_pic.png">
 # CodeAlpha_Basic_Network_Sniffer
 
 This repository contains a basic network sniffer script written in Python for an intern task at CodeAlpha. The script is designed to sniff network packets on a specified interface and display information about the packets in a formatted table. It can also write the captured packets to a PCAP file for further analysis.
